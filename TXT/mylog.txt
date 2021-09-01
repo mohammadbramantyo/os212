@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC w00 10 L03 Github related
-ZCZC w00 90 L09 Assignment in General
+ZCZC w00 10 L03 Github related: Create Github account
+ZCZC w00 5 L11 Assignment #01: Create os212 repository
+ZCZC w00 5 L12 Assignment #02: Start w00 log
+ZCZC w00 10 L13 Assignment #03: Create github page
+ZCZC w00 5 L14 Assignment #04: Course Registration
+ZCZC w00 60 L15 Assignment #05: Read Operating System Concepts, 10th edition book chapter 1
 ZCZC w00 120 L02 ZOOM meetings related
