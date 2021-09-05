@@ -1,0 +1,4 @@
+# Welcome to my Github page
+### This page is for academic purpose of Operation Systems subject
+
+You can see my activity log [here](https://mohammadbramantyo.github.io/os212/TXT/mylog.txt)
