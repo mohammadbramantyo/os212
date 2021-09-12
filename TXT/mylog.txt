@@ -11,6 +11,14 @@ ZCZC w00 60 L15 Assignment #05: Read Operating System Concepts, 10th edition boo
 ZCZC w00 120 L02 ZOOM meetings related
 ZCZC w00 60 L15 Assignment #05: Read Operating System Concepts, 10th edition book chapter 2 and 8
 ZCZC w00 15 L04 GitHub Pages related
+ZCZC w01 30 L11 Assignment #01
+ZCZC w01 60 L12 Assignment #02
+ZCZC w01 15 L13 Assignment #03: read vi command
+ZCZC w01 120 L14 Assignment #04: dress up virtual guest, download package
+ZCZC w01 15 L15 Assignment #05
+ZCZC w01 15 L17 Assignment #07
+ZCZC w01 15 L18 Assignment #08
+ZCZC w01 30 L19 Assignment #09
 
 
 
