@@ -1,3 +1,4 @@
+:i
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
@@ -10,3 +11,6 @@ ZCZC w00 60 L15 Assignment #05: Read Operating System Concepts, 10th edition boo
 ZCZC w00 120 L02 ZOOM meetings related
 ZCZC w00 60 L15 Assignment #05: Read Operating System Concepts, 10th edition book chapter 2 and 8
 ZCZC w00 15 L04 GitHub Pages related
+
+
+
