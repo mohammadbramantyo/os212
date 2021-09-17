@@ -1,4 +1,3 @@
-:i
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
@@ -20,6 +19,10 @@ ZCZC w01 15 L17 Assignment #07
 ZCZC w01 15 L18 Assignment #08
 ZCZC w01 30 L19 Assignment #09
 ZCZC w01 10 L16 Assignment #06
-
-
-
+ZCZC w02 20 L05 Quiz related 
+ZCZC w02 10 L14 Assignment #04 : create GnuPG Key 
+ZCZC w02 7 L15 Assignment #05 : list all GnuPG key (comment, email,ect)
+ZCZC w02 5 L16 Assignment #06 : import ospubkey
+ZCZC w02 5 L17 Assignment #07 : signing os public key
+ZCZC w02 10 L18 Assignment #08 : export public key mypubkey.txt, push to github
+ZCZC w02 15 L26 C-language : learn about C on internet
