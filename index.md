@@ -1,18 +1,12 @@
-
-<link href="style.css" rel="stylesheet"></link>
-
 # Welcome to my Github page
 ### This page is for academic purpose of Operation Systems subject 
 
-feel free to look around.
+Hello There! Just me and my github page here. Please look around.   
+Have a nice day. 😁
 
 ---
-<div class="topnav">
-  <a class="active" href="https://mohammadbramantyo.github.io/os212/">Home</a>
-  <a href="https://mohammadbramantyo.github.io/os212/TXT/mylog.txt">Log</a>
-  <a href="https://mohammadbramantyo.github.io/os212/LINKS/">Links</a>
-  <a href="https://github.com/mohammadbramantyo/os212/">Github</a>
-</div>
+[HOME](https://mohammadbramantyo.github.io/os212) |[Log](https://mohammadbramantyo.github.io/os212/TXT/mylog.txt)|[Links](https://mohammadbramantyo.github.io/os212/LINKS/) |[Github](https://github.com/mohammadbramantyo/os212/)
+--|--|--|--|  
 
 <em>"Culture is your operating system." </em>
 <br>
