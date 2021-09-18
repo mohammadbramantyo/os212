@@ -26,3 +26,4 @@ ZCZC w02 5 L16 Assignment #06 : import ospubkey
 ZCZC w02 5 L17 Assignment #07 : signing os public key
 ZCZC w02 10 L18 Assignment #08 : export public key mypubkey.txt, push to github
 ZCZC w02 15 L26 C-language : learn about C on internet
+ZCZC w02 40 L11 Assignment #01 :Read OSC chapter 16+17
