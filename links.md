@@ -15,3 +15,7 @@ permalink: /LINKS/
    Basic linux command explanation in indonesia. My GSGS way   
    is see some basic commads. We can make miracle with basic things :)
    
+4. [Cryptography basics](https://www.thegeekstuff.com/2012/07/cryptography-basics/)  
+   This link describe about how cryptography work in a simple way.  
+   It also has easy-to-understand illustrations.
+   
