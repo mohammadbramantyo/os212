@@ -19,3 +19,7 @@ permalink: /LINKS/
    This link describe about how cryptography work in a simple way.  
    It also has easy-to-understand illustrations.
    
+5. [File allocation methods: Linked Allocation](https://www.youtube.com/watch?v=tI3MACfFfFc)  
+   This is a video explaining about linked allocation methods. Which  
+   will be used in Little Brother File System. I am a bit of confused about it  
+   at first but i am slowly can follow up. Hope this helpful.
