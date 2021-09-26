@@ -23,3 +23,7 @@ permalink: /LINKS/
    This is a video explaining about linked allocation methods. Which  
    will be used in Little Brother File System. I am a bit of confused about it  
    at first but i am slowly can follow up. Hope this helpful.
+
+6. [Linux File System](https://opensource.com/life/16/10/introduction-linux-filesystems)  
+   Know about linux file systems! There is explanation about  
+   file directory and mounting too. 
