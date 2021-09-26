@@ -32,3 +32,13 @@ ZCZC w02 140 L13 Assignment #03 : Maybe it's 110 + 30, i skipped some part
 ZCZC w02 10 L19 Assignment #09 : add new link
 ZCZC w02 10 L20 Assignment #10 : Review some links
 ZCZC w02 15 L09 Assignment in general : the rest of the assignment
+ZCZC W03 60 L11 Assignment #01
+ZCZC W03 15 L12 Assignment #02
+ZCZC W03 30 L13 Assignment #03: it's pretty hard
+ZCZC W03 10 L14 L14 Assignment #04
+ZCZC W03 20 L15 Assignment #05
+ZCZC W03 7 L16 Assignment #06
+ZCZC W03 10 L17 Assignment #07
+ZCZC W03 10 L18 Assignment #08
+ZCZC W03 15 L19 Assignment #09
+
