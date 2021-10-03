@@ -26,4 +26,7 @@ permalink: /LINKS/
 
 6. [Linux File System](https://opensource.com/life/16/10/introduction-linux-filesystems)  
    Know about linux file systems! There is explanation about  
-   file directory and mounting too. 
+   file directory and mounting too.
+   
+7. [C-Pointers](https://www.programiz.com/c-programming/c-pointers)  
+   The basic you want to know to use pointer on C language.
