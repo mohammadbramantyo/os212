@@ -30,3 +30,13 @@ permalink: /LINKS/
    
 7. [C-Pointers](https://www.programiz.com/c-programming/c-pointers)  
    The basic you want to know to use pointer on C language.
+   
+8. [Education4U Operating System Playlist](https://youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-)   
+   I Found youtube channel that provide explanation about page replacement algorithm.  
+   It help me to learn about FIFO, Optimal, adn LRU Algorithm. If you want to check  
+   the videos these are the videos i've watched:  
+   - [FIFO](https://www.youtube.com/watch?v=16kaPQtYo28&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=27)
+   - [Optimal](https://www.youtube.com/watch?v=jeJIKKQcqpU&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=29)
+   - [LRU](https://www.youtube.com/watch?v=u23ROrlSK_g&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=28)
+   
+   Consider cheking it before quiz, you wont regret.
