@@ -50,3 +50,14 @@ ZCZC W04 5 L16 Assignment #06
 ZCZC W04 10 L17 Assignment #07
 ZCZC W04 5 L18 Assignment #08
 ZCZC W04 10 L19 Assignment #09 : Submited after upadting mylog
+ZCZC W05 60 L11 Assignment #01 
+ZCZC W05 15 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03 : Try 2020-1 and 2019-1
+ZCZC W05 20 L14 Assignment #04
+ZCZC W05 10 L15 Assignment #05 : Search through my history to find the link
+ZCZC W05 6 L17 Assignment #07 
+ZCZC W05 10 L18 Assignment #08
+ZCZC W05 5 L19 Assignment #09 : Submit after update mylog
+ZCZC W05 30 L31 Youtube : Watch page replacement algorithm
+ZCZC W05 90 L02 ZOOM meetings related
+ZCZC W05 20 L05 Quiz related
