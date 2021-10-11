@@ -38,5 +38,3 @@ permalink: /LINKS/
    - [FIFO](https://www.youtube.com/watch?v=16kaPQtYo28&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=27)
    - [Optimal](https://www.youtube.com/watch?v=jeJIKKQcqpU&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=29)
    - [LRU](https://www.youtube.com/watch?v=u23ROrlSK_g&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=28)
-   
-   Consider cheking it before quiz, you wont regret.
