@@ -37,4 +37,10 @@ permalink: /LINKS/
    the videos these are the videos i've watched:  
    - [FIFO](https://www.youtube.com/watch?v=16kaPQtYo28&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=27)
    - [Optimal](https://www.youtube.com/watch?v=jeJIKKQcqpU&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=29)
-   - [LRU](https://www.youtube.com/watch?v=u23ROrlSK_g&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=28)
+   - [LRU](https://www.youtube.com/watch?v=u23ROrlSK_g&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=28)  
+
+9. [Fork](https://www.section.io/engineering-education/fork-in-c-programming-language/)  
+   Explain about fork in c language. It gives basic understanding about fork  
+   and help understanding some demos in week06. If you want to know more see  
+   [More about Fork](https://ops-class.org/slides/2017-02-10-forksynch/)
+   
