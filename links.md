@@ -42,5 +42,9 @@ permalink: /LINKS/
 9. [Fork](https://www.section.io/engineering-education/fork-in-c-programming-language/)  
    Explain about fork in c language. It gives basic understanding about fork  
    and help understanding some demos in week06. If you want to know more see  
-   [More about Fork](https://ops-class.org/slides/2017-02-10-forksynch/)
+   [More about Fork](https://ops-class.org/slides/2017-02-10-forksynch/)  
+   
+ 10. [semaphore](https://linuxhint.com/posix-semaphores-with-c-programming/)  
+     I read this to understand the very basic of semaphore. It's just the  
+     basic but i find it helpful to read before class.
    
