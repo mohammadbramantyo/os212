@@ -46,5 +46,7 @@ permalink: /LINKS/
    
  10. [semaphore](https://linuxhint.com/posix-semaphores-with-c-programming/)  
      I read this to understand the very basic of semaphore. It's just the  
-     basic but i find it helpful to read before class.
-   
+     basic but i find it helpful to read before class.  
+     
+11. [Process Scedhuling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)  
+    Explain about process scedhuling while doing multiprogramming in operating system. 
