@@ -81,3 +81,8 @@ ZCZC W08 30 L13 Assignment #03
 ZCZC W08 30 L14 Assignment #04
 ZCZC W08 120 L15 Assignment #05
 ZCZC W08 30 L09 Assignment in General : Update Links, mylog.txt, myrank.txt, Submit assignment
+ZCZC W09 30 L11 Assignment #01
+ZCZC W09 15 L12 Assignment #02
+ZCZC W09 20 L13 Assignment #03
+ZCZC W09 120 L14 Assignment #04 : chapter-6 and 7, stops when installing libstdc++
+ZCZC W09 30 L09 Assignment in General : Update Links, mylog.txt, myrank.txt, Submit assignment 
