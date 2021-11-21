@@ -50,3 +50,6 @@ permalink: /LINKS/
      
 11. [Process Scedhuling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)  
     Explain about process scedhuling while doing multiprogramming in operating system. 
+    
+12. [Mass Storage management](https://www.tutorialspoint.com/Mass-Storage-Management)  
+    Explain about Scedhuling algorithm.  
